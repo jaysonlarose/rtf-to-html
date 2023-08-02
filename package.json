@@ -1,6 +1,6 @@
 {
-  "name": "@iarna/rtf-to-html",
-  "version": "1.1.0",
+  "name": "@jaysonlarose/rtf-to-html",
+  "version": "1.1.0j",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no test specified\"",
@@ -24,17 +24,17 @@
     "standard-version": "*",
     "tap": "*"
   },
-  "description": "Convert RTF to HTML in pure JavaScript.",
+  "description": "Convert RTF to HTML in pure JavaScript (preserves line breaks).",
   "files": [
     "index.js",
     "rtf-to-html.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iarna/rtf-to-html.git"
+    "url": "git+https://github.com/jaysonlarose/rtf-to-html.git"
   },
   "bugs": {
-    "url": "https://github.com/iarna/rtf-to-html/issues"
+    "url": "https://github.com/jaysonlarose/rtf-to-html/issues"
   },
   "homepage": "https://npmjs.com/package/@iarna/rtf-to-html"
 }

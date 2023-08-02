@@ -2,6 +2,8 @@
 
 Convert RTF to HTML in pure JavaScript.
 
+NOTE: This version has beeh hacked up by ['Jayson Larose'](mailto:jayson@interlaced.org) such that it doesn't consolidate line breaks.
+
 ```js
 const rtfToHTML = require('@iarna/rtf-to-html')
 
